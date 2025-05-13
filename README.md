@@ -5,7 +5,7 @@
 - [Setup_Instructions](#-SetupInstructions)
 - [Running_the_application](#-Runningtheapplication)
 - [Trouble_shooting](#-Troubleshooting)
-- [License](#-license)
+- [License](#-License)
 #  PDF Chatbot with Groq and LangChain
 A conversational AI application that allows you to chat with multiple PDF documents using Groq's lightning-fast LLMs and Hugging Face embeddings.
 
@@ -145,4 +145,4 @@ The embedding model will download on first run (≈1.3GB) Ensure you have stable
 Or if your api key of the HuggingFace is correct 
 
 ## 📜 License
-MIT License. See LICENSE for details.
+MIT License. See [LICENSE](#-https://github.com/SorrowfuLionDZW/PDF-Chatbot-with-Groq-and-LangChain/blob/main/LICENSE) for details.
