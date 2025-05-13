@@ -108,6 +108,8 @@ streamlit run app.py
 4.The chatbot will provide answers based on the content of your PDFs##  ⚙️ Configuration Options
 You can modify these parameters in the code:
 
+![Image](https://github.com/user-attachments/assets/62b9b17b-6ec9-4abf-8ebe-e279693709b3)
+
 ### Groq LLM Settings (in groq_wrapper.py)
 - model_name: Change to other supported Groq models (e.g., "mixtral-8x7b-32768")
 
