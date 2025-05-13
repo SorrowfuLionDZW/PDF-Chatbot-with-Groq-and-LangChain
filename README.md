@@ -108,8 +108,6 @@ streamlit run app.py
 4.The chatbot will provide answers based on the content of your PDFs##  ⚙️ Configuration Options
 You can modify these parameters in the code:
 
-![Image](https://github.com/user-attachments/assets/62b9b17b-6ec9-4abf-8ebe-e279693709b3)
-
 ### Groq LLM Settings (in groq_wrapper.py)
 - model_name: Change to other supported Groq models (e.g., "mixtral-8x7b-32768")
 
@@ -124,11 +122,7 @@ You can modify these parameters in the code:
 
 - embedding_model: Change to other Hugging Face models if needed
 ## technical architecture
-``` bash 
-PDF Documents → Text Extraction → Chunking → Embedding → Vector Store
-       ↑                                         ↓
-User Questions ← Conversation Chain ← Retrieval ←─┘
-```
+![Image](https://github.com/user-attachments/assets/d7806d29-c891-4ede-948e-425e6dadd01b)
 ## 🛠️ Trouble shooting 
 ### 1. API Key Not Found:
 
